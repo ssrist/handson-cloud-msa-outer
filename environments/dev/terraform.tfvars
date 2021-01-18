@@ -1,7 +1,7 @@
 environment = "dev"
-project_id = "PROJECT_ID"
-member_id  = "MEMBER_ID"
-region     = "REGION"
-zones      = ["ZONE"]
+project_id = "architect-certification-289902"
+member_id  = "98"
+region     = "us-central1"
+zones      = ["us-central1-b"]
 subnet_cidr = "10.10.0.0/16"
 machine_type = "n1-standard-8"
