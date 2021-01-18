@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: eshop-adservice
-          image: eshop-adservice:5
+          image: gcr.io/architect-certification-289902/99/eshop-adservice:5
           ports:
           - containerPort: 8095
           env:
